@@ -1,6 +1,6 @@
-import module
 import random
+import modulefish
 
-module.fish()
+modulefish.fish()
 x = random.randrange(1,1000)
 print(x)
