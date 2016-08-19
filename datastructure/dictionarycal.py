@@ -1,3 +1,5 @@
+from operator import itemgetter
+
 stocks = {
     'GOOG': 434,
     'AAPL': 325,
